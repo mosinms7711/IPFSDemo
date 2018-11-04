@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9BAE91D7-7DAC-407B-850F-B7A83E6E5511}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NethereumWithTraditionalMVVM/MainPage.xaml.cs">
+    <Files>
+      <File FileName="NethereumWithTraditionalMVVM/MainPage.xaml.cs" Line="148" Column="34" />
+      <File FileName="NethereumWithTraditionalMVVM/App.xaml.cs" Line="35" Column="30" />
+      <File FileName="NethereumWithTraditionalMVVM/MainPage.xaml" Line="10" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dev-aicumen/Projects/NethereumWithTraditionalMVVM/NethereumWithTraditionalMVVM.Android/FileService.cs" relfile="NethereumWithTraditionalMVVM.Android/FileService.cs" line="14" column="1" />
+      <Breakpoint file="/Users/dev-aicumen/Projects/NethereumWithTraditionalMVVM/NethereumWithTraditionalMVVM/MainPage.xaml.cs" relfile="NethereumWithTraditionalMVVM/MainPage.xaml.cs" line="204" column="1" />
+      <Breakpoint file="/Users/dev-aicumen/Projects/NethereumWithTraditionalMVVM/NethereumWithTraditionalMVVM/MainPage.xaml.cs" relfile="NethereumWithTraditionalMVVM/MainPage.xaml.cs" line="204" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NethereumWithTraditionalMVVM.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MultiItemStartupConfigurations />
+</Properties>

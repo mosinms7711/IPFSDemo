@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:NethereumWithTraditionalMVVM;assembly=NethereumWithTraditionalMVVM" x:Class="NethereumWithTraditionalMVVM.MainPage">
+    <StackLayout Orientation="Vertical">
+        <!-- Place new controls here -->
+        <Entry x:Name="txtValue" Placeholder="enter text" HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand"/>
+        <Image x:Name="imgIcon"  WidthRequest="500" HeightRequest="300" IsVisible="false"/>
+        <Button Text="Create Hash Value for String" Clicked="Handle_Clicked" HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand"/>
+        <Button Text="Select Image" Clicked="pickPhoto" HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand"/>
+        <Button Text="Select Video" Clicked="localPhoto" HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand"/>
+        <Label Text="Multihash Hash" VerticalOptions="StartAndExpand"/>
+        <Label x:Name="stringHash" Margin="20,0,20,0" HorizontalOptions="FillAndExpand" LineBreakMode="WordWrap" VerticalOptions="StartAndExpand"/>
+        <Label x:Name="stringHashEncode" HorizontalOptions="FillAndExpand" LineBreakMode="WordWrap" VerticalOptions="StartAndExpand"/>
+        <Label Text="IPFS Hash" VerticalOptions="StartAndExpand" Margin="20,0,20,0"/>
+        <Label x:Name="imageHash" Margin="20,0,20,0" HorizontalOptions="FillAndExpand" LineBreakMode="WordWrap" VerticalOptions="StartAndExpand"/>
+    </StackLayout>
+</ContentPage>
